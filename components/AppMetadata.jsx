@@ -1,9 +1,9 @@
 const author = "Ramzan Arif Sheikh";
 const description =
 	"Software developer from Lahore, Republic of Pakistan, who loves to develop beautiful websites, single page applications, customer relationship management or code from scratch using React and Next.js";
-	const url = "https://www.linkedin.com/in/ramzan-arif-sheikh-702a30178/";
+	const url = "https://portfolio-jade-kappa-38.vercel.app/";
 	export const AppMetadata = {
-		metadataBase: new URL("https://www.linkedin.com/in/ramzan-arif-sheikh-702a30178/"),
+		metadataBase: new URL("https://portfolio-jade-kappa-38.vercel.app/"),
 
 	title: {
 		default: `Portfolio | ${author}`,
@@ -35,13 +35,13 @@ const description =
 		siteName: `${author} | Portfolio`,
 		images: [
 			{
-				url: "https://www.linkedin.com/in/ramzan-arif-sheikh-702a30178/",
+				url: "https://portfolio-jade-kappa-38.vercel.app/",
 				width: 800,
 				height: 600,
 				alt: "My personal portfolio website"
 			},
 			{
-				url: "https://www.linkedin.com/in/ramzan-arif-sheikh-702a30178/",
+				url: "https://portfolio-jade-kappa-38.vercel.app/",
 				width: 1800,
 				height: 1600,
 				alt: "My personal portfolio website"
