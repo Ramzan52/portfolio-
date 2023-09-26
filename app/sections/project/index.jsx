@@ -21,7 +21,7 @@ export function ProjectsSection() {
 						}
 					>
 						<ErrorBoundary FallbackComponent={Error}>
-							<div class="max-w-6xl mx-auto grid grid-cols-3 gap-5">
+							<div class="max-w-6xl mx-auto lg:grid-cols-3 grid  gap-5">
 								<div className="bg-white rounded-lg shadow-md">
 						
 						<Image
