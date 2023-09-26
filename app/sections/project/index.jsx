@@ -57,7 +57,7 @@ export function ProjectsSection() {
 								<div className="p-4">
 								<h2 className="text-xl font-semibold">Social 27</h2>
 									<p className="text-gray-600 mb-4">
-                                      Social27's Event Platform offers AI-driven personalization, recommending agendas and relevant content for various event types. It excels in content delivery, networking, and sponsor exposure, enhancing attendee interactions and generating sponsor leads. It prioritizes accessibility and security for a seamless event experience.</p>
+                                      Social27 Event Platform offers AI-driven personalization, recommending agendas and relevant content for various event types. It excels in content delivery, networking, and sponsor exposure, enhancing attendee interactions and generating sponsor leads. It prioritizes accessibility and security for a seamless event experience.</p>
 									<a
 										href="https://www.social27.com/"
 										className="text-blue-600 hover:underline"
